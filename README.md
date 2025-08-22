@@ -7,7 +7,7 @@
 
 ## Incident Response Flowchart (High-Level Lifecycle)
 
-![Incident Response Flowchart (High-Level Lifecycle)](https://tse2.mm.bing.net/th/id/OIP.w1HpPuZ-8fZjeJ2Rc9S_xgHaEK?pid=Api&P=0&h=220)
+
 
 Preparation
 ↓
